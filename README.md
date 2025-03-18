@@ -93,7 +93,7 @@ Este proyecto permitió:
 - Obtener **información valiosa** que puede ser utilizada para la **toma de decisiones estratégicas**, como en la planificación agrícola o la gestión de recursos naturales en base a proyecciones climáticas.
 
 ---
-![1](./images/s1.png)  
+![1](./images/s1.jpg)  
 __________________________________
 ![2](./images/s2.jpg)  
 __________________________________
